@@ -35,3 +35,9 @@ It features custom grid physics for multiple particle types, decoupled rendering
 * **`1` / `2` / `3` / `4`:** Switch active particle (Water / Sand / Stone / Steel)
 * **`C`:** Clear the entire grid
 * **`ESC`:** Exit game
+
+---
+
+## How To Set Up
+
+* Lmao, no I'm not teaching you. Go download this figure it out, its literally one venv and pip install
