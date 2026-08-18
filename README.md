@@ -1,4 +1,4 @@
-# FuckAssSandGame69420 ⏳
+# FuckAssSandGame69420 
 
 This entire README is written by Gemini, cuz I'm lazy asf, code itself is self study.
 
@@ -17,7 +17,7 @@ It features custom grid physics for multiple particle types, decoupled rendering
 
 ---
 
-## 🧪 Included Particle Types
+## Included Particle Types
 
 | Key | Particle | Behavior / Physics Rules |
 | :---: | :--- | :--- |
@@ -29,7 +29,7 @@ It features custom grid physics for multiple particle types, decoupled rendering
 
 ---
 
-## 🎮 Controls
+## Controls
 
 * **Left Click + Drag:** Paint active particle into the grid
 * **`1` / `2` / `3` / `4`:** Switch active particle (Water / Sand / Stone / Steel)
